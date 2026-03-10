@@ -1,0 +1,24 @@
+# Output
+grading_results.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Student submissions (real ones — keep samples, ignore everything else)
+submissions/*.docx
+submissions/*.pdf
+submissions/*.rtf
+submissions/*.odt
+submissions/*.pages
+!submissions/sample_*.txt

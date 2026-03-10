@@ -1,0 +1,12 @@
+Lab Submission — Sample Student
+
+1. The mitochondria is the powerhouse of the cell and produces ATP through cellular respiration.
+2. Photosynthesis converts light energy into chemical energy stored in glucose molecules.
+3. DNA replication occurs during the S phase of the cell cycle using semi-conservative replication.
+4. Enzymes are biological catalysts that lower the activation energy of chemical reactions.
+5. Osmosis is the diffusion of water across a semi-permeable membrane from low to high solute concentration.
+6. The cell membrane is composed of a phospholipid bilayer with embedded proteins.
+7. Meiosis produces four genetically distinct haploid cells from one diploid parent cell.
+8. Natural selection acts on phenotypic variation within a population over generations.
+9. The central dogma of molecular biology describes the flow from DNA to RNA to protein.
+10. Homeostasis is the maintenance of a stable internal environment in an organism.
